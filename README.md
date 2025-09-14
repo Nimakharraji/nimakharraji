@@ -30,14 +30,4 @@ Phone: 09201264616
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite" alt="Adobe"/>
-</p>
-
-📊 GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNimakharraji%26theme%3Dcobalt%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats"/>
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNimakharraji%26theme%3Dcobalt%26hide_border%3Dfalse" alt="GitHub Streak"/>
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNimakharraji%26theme%3Dcobalt%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" alt="Top Languages"/>
-</p>
+پ
