@@ -24,25 +24,20 @@ Phone: 09201264616
 
 🛠️ Tech Stack & Tools
 <p align="left">
-<a href="https://flutter.dev" target="_blank">
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</a>
-<a href="https://dart.dev" target="_blank">
-<img alt="Dart" src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite">
-</a>
-<a href="https://www.python.org" target="_blank">
-<img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite">
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img alt="Git" src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite">
-</a>
-<a href="https://github.com" target="_blank">
-<img alt="GitHub" src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite">
-</a>
-<a href="https://gradle.org/" target="_blank">
-<img alt="Gradle" src="https://www.google.com/search?q=https://img.shields.io/badge/Gradle-02303A%3Fstyle%3Dfor-the-badge%26logo%3Dgradle%26logoColor%3Dwhite">
-</a>
-<a href="https://www.adobe.com" target="_blank">
-<img alt="Adobe" src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite">
-</a>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite" alt="Adobe"/>
+</p>
+
+📊 GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNimakharraji%26theme%3Dcobalt%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats"/>
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNimakharraji%26theme%3Dcobalt%26hide_border%3Dfalse" alt="GitHub Streak"/>
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNimakharraji%26theme%3Dcobalt%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" alt="Top Languages"/>
 </p>
