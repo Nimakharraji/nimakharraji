@@ -15,7 +15,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://www.google.com/search?q=https://t.me/nimakharraji" target="_blank">
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://www.google.com/search?q=https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.google.com/search?q=https://instagram.com/nimakharraji" target="_blank">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
