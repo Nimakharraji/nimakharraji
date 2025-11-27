@@ -1,4 +1,4 @@
-👨‍💻 About Me
+## 👨‍💻 About Me
 Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creating clean, efficient, and user-friendly mobile applications.
 
 📱 My expertise lies in Flutter and Dart, but I also have experience with Python for scripting and backend tasks. I enjoy tackling new challenges and continuously learning to improve my skills.
@@ -7,7 +7,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 
 🤝 Feel free to reach out to connect or discuss potential projects!
 
-📫 Contact Me
+## 📫 Contact Me
 <p align="left">
 <a href="mailto:nimawkhh@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,9 +20,9 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 </a>
 </p>
 
-Phone: 09201264616
+## Phone: 09201264616
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 <p align="left">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
