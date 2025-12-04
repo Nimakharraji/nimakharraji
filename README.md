@@ -42,5 +42,9 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
 </a>
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Gradle"/>
+</a>
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Gradle"/>
+</a>
