@@ -12,7 +12,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="mailto:nimawkhh@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.google.com/search?q=https://t.me/nimakharraji" target="_blank">
+<a href="https://t.me/SyntaxSoulDev" target="_blank">
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.google.com/search?q=https://instagram.com/nimakharraji" target="_blank">
