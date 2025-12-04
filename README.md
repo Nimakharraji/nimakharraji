@@ -36,6 +36,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </a>
+</br>
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
