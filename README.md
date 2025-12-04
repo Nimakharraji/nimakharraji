@@ -20,7 +20,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 </a>
 </p>
 
-## Phone: +98 9201264616
+## Phone: +989201264616
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
