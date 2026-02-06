@@ -57,5 +57,5 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </a>
 <a href="https://github.com/Nimakharraji">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=white" alt="C Programming"/>
 </a>
