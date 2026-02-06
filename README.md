@@ -49,6 +49,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Gradle"/>
 </a>
+</br>
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </a>
