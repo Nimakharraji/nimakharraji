@@ -27,23 +27,31 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
 </a>
+  
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </a>
+  
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </a>
+  
 </br>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </a>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
 </a>
+
 </br>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Gradle"/>
 </a>
@@ -53,24 +61,55 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </a>
+
 </br>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </a>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=white" alt="C Programming"/>
 </a>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Clean%20Architecture-000000?style=for-the-badge&logo=instructure&logoColor=white" alt="Clean Architecture"/>
 </a>
+
 </br>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-System%20Design-0052CC?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="System Design"/>
 </a>
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-SOLID%20Principles-E34F26?style=for-the-badge&logo=checkmarx&logoColor=white" alt="SOLID"/>
 </a>
+
 </br>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Design%20Patterns-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Design Patterns"/>
+</a>
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/-Game%20Development-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev"/>
+</a>
+
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/-Physics%20Engine-D00000?style=for-the-badge&logo=electron&logoColor=white" alt="Physics"/>
+</a>
+
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/-Canvas%20Rendering-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" alt="Canvas API"/>
+</a>
+
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+</a>
+
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/-Algorithms-FF6F00?style=for-the-badge&logo=the-algorithms&logoColor=white" alt="Algorithms"/>
+</a>
+
+<a href="https://github.com/Nimakharraji">
+  <img src="https://img.shields.io/badge/-Linear%20Algebra-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" alt="Math"/>
 </a>
