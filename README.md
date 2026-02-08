@@ -70,7 +70,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-SOLID%20Principles-E34F26?style=for-the-badge&logo=checkmarx&logoColor=white" alt="SOLID"/>
 </a>
+</br>
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Design%20Patterns-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Design Patterns"/>
 </a>
-</br>
