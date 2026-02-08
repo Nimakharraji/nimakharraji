@@ -90,9 +90,12 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Design%20Patterns-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Design Patterns"/>
 </a>
+
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Game%20Development-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Game Dev"/>
 </a>
+
+</br>
 
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Physics%20Engine-D00000?style=for-the-badge&logo=electron&logoColor=white" alt="Physics"/>
@@ -101,6 +104,8 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Canvas%20Rendering-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" alt="Canvas API"/>
 </a>
+
+</br>
 
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
