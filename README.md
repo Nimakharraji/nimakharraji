@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creating clean, efficient, and user-friendly mobile applications.
+Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creating clean, efficient, and mobile applications.
 
 📱 My expertise lies in Flutter and Dart, but I also have experience with Python for scripting and backend tasks. I enjoy tackling new challenges and continuously learning to improve my skills.
 
