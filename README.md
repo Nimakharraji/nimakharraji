@@ -75,3 +75,7 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Clean%20Architecture-000000?style=for-the-badge&logo=instructure&logoColor=white" alt="Clean Architecture"/>
 </a>
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
