@@ -11,8 +11,11 @@
 
  <p align="center">Feel free to reach out to connect or discuss potential projects!</p>
  
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </p>
 
  <h3 align="center">Contact Me</h>
@@ -53,7 +56,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </a>
   
-</br>
+
 
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -92,6 +95,12 @@
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/-Clean%20Architecture-000000?style=for-the-badge&logo=instructure&logoColor=white" alt="Clean Architecture"/>
 </a>
+
+
+<div align="center">
+  
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nimakharraji&hide_progress=true&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Nimakharraji&hide_progress=true&langs_count=4&theme=dark)
+</div>
 
 
 
