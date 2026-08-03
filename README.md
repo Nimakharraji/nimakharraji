@@ -1,4 +1,7 @@
-## <p align="center">Hi there! I'm NimaKharraji</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+<h3 align="center">Hi there! I'm NimaKharraji</h3>
 
  <p align="center">I believe in writing high-quality code and collaborating effectively in a team environment to build amazing products.</p>
 
@@ -7,8 +10,16 @@
 
 
  <p align="center">Feel free to reach out to connect or discuss potential projects!</p>
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## <p align="center">Contact Me</p>
+ <h3 align="center">Contact Me</h>
+ 
+ </br>
+  </br>
+
 <p align="center">
 <a href="mailto:nimawkhh@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,10 +31,15 @@
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
+<h5 align="center">OR</h5>
 
-## <p align="center">Phone: +98 920 126 4616</p>
+ <h4 align="center">Phone: +98 920 126 4616</h4>
 
-## <p align="center">Tech Stack & Tools</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+ <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
