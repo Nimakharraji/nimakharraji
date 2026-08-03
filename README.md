@@ -1,14 +1,15 @@
-## 👨‍💻 About Me
-Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creating clean, efficient, and mobile applications.
+## <p align="center">Hi there! I'm NimaKharraji</p>
 
-📱 My expertise lies in Flutter and Dart, but I also have experience with Python for scripting and backend tasks. I enjoy tackling new challenges and continuously learning to improve my skills.
+ <p align="center">I believe in writing high-quality code and collaborating effectively in a team environment to build amazing products.</p>
 
-💡 I believe in writing high-quality code and collaborating effectively in a team environment to build amazing products.
 
-🤝 Feel free to reach out to connect or discuss potential projects!
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=google&weight=500&duration=3000&pause=1000&color=00FFEB&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Flutter(GetX%26Bloc);Backend+%26+Automation;CrossPlatform;Logic+Layer;User+Experiences" alt="Typing SVG" /></a></p>
 
-## 📫 Contact Me
-<p align="left">
+
+ <p align="center">Feel free to reach out to connect or discuss potential projects!</p>
+
+## <p align="center">Contact Me</p>
+<p align="center">
 <a href="mailto:nimawkhh@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -20,10 +21,10 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 </a>
 </p>
 
-## Phone: +98 920 126 4616
+## <p align="center">Phone: +98 920 126 4616</p>
 
-## 🛠️ Tech Stack & Tools
-<p align="left">
+## <p align="center">Tech Stack & Tools</p>
+<p align="center">
 <a href="https://github.com/Nimakharraji">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
 </a>
