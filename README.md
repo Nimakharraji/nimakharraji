@@ -77,5 +77,3 @@ Hi there! I'm Nima Kharraji, a passionate developer with a strong focus on creat
 </a>
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nimakharraji)](https://git.io/streak-stats)
